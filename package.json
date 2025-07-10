@@ -1,0 +1,17 @@
+{
+  "name": "schedule_messages_sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node . --trace-warnings"
+  },
+  "author": "TNB",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-fetch": "^2.7.0",
+    "node-schedule": "^2.1.1"
+  }
+}
